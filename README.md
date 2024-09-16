@@ -58,9 +58,8 @@ bench init frappe-bench
 
 3. Install the Library Management App
 ```bash
-bench get-app library_management https://github.com/yourusername/library_management.git
+bench get-app library_management https://github.com/mikeyolang/library_management_system
 bench --site library.local install-app library_management
-bench new-site library.localhost
 
 ```
 4. Start the Bench
@@ -68,7 +67,7 @@ bench new-site library.localhost
 bench start
 ```
 5. Access the Application
-    - Open your browser and navigate to http://localhost:8000.
+    - Open your browser and navigate to[ http://localhost:8000.](http://library.localhost:8000/)
 
 ### How to Use
 
