@@ -90,17 +90,17 @@ bench start
 ![Alt Article](/Screenshots/addArticle.png)
 
 2. Library Member
-![Alt Article](/Screenshots/libraryMember.png)
-![Alt Article](/Screenshots/addLibMember.png)
+![Alt LibraryMember](/Screenshots/libraryMember.png)
+![Alt LibraryMember](/Screenshots/addLibMember.png)
 
 3. Library Membership
-![Alt Article](/Screenshots/membership.png)
-![Alt Article](/Screenshots/newMembership.png)
+![Alt LibraryMembership](/Screenshots/membership.png)
+![Alt LibraryMembership](/Screenshots/newMembership.png)
 
 4. Library Settings
 
-![Alt Article](/Screenshots/libSettings.png)
+![Alt LibrarySettings](/Screenshots/libSettings.png)
 
 5. Library Transactions
-![Alt Article](/Screenshots/libTrans.png)
-![Alt Article](/Screenshots/newLibTrans.png)
+![Alt Library Transactions](/Screenshots/libTrans.png)
+![Alt Transactions](/Screenshots/newLibTrans.png)
