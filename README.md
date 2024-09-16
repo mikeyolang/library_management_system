@@ -82,25 +82,25 @@ bench start
 
 ### Screenshots
 #### Here is the General Workspace:
-![Alt Article](/Screenshots/workspace.png)
+![Alt Article](./library_management_system/screenshots/workspace.png)
 
 #### Here are the Various Doc Type Screenshots
 1. Article
-![Alt Article](/Screenshots/article.png) 
-![Alt Article](/Screenshots/addArticle.png)
+![Alt Article](./library_management_system/screenshots/article.png) 
+![Alt Article](./library_management_system/screenshots/addArticle.png)
 
 2. Library Member
-![Alt LibraryMember](/Screenshots/libraryMember.png)
-![Alt LibraryMember](/Screenshots/addLibMember.png)
+![Alt LibraryMember](./library_management_system/screenshots/libraryMember.png)
+![Alt LibraryMember](./library_management_system/screenshots/addLibMember.png)
 
 3. Library Membership
-![Alt LibraryMembership](/Screenshots/membership.png)
-![Alt LibraryMembership](/Screenshots/newMembership.png)
+![Alt LibraryMembership](./library_management_system/screenshots/membership.png)
+![Alt LibraryMembership](./library_management_system/screenshots/newMembership.png)
 
 4. Library Settings
 
-![Alt LibrarySettings](/Screenshots/libSettings.png)
+![Alt LibrarySettings](./library_management_system/screenshots/libSettings.png)
 
 5. Library Transactions
-![Alt Library Transactions](/Screenshots/libTrans.png)
-![Alt Transactions](/Screenshots/newLibTrans.png)
+![Alt Library Transactions](./library_management_system/screenshots/libTrans.png)
+![Alt Transactions](./library_management_system/screenshots/newLibTrans.png)
