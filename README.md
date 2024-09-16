@@ -46,24 +46,21 @@ Ensure you have the following installed:
 #### Installation Steps
 1. Clone this repository
 ```bash     
-git clone https://github.com/mikeyolang/library_management.git
+git clone https://github.com/mikeyolang/library_management_system
 cd library_management
 
  ```
 2. Install Frappe and Create a Site
 
 ```bash     
-bench init library_management --frappe-branch version-14
-cd library_management
-bench new-site library.local
-
-
+bench init frappe-bench
  ```
 
 3. Install the Library Management App
 ```bash
 bench get-app library_management https://github.com/yourusername/library_management.git
 bench --site library.local install-app library_management
+bench new-site library.localhost
 
 ```
 4. Start the Bench
