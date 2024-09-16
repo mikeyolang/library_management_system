@@ -67,7 +67,7 @@ bench --site library.local install-app library_management
 bench start
 ```
 5. Access the Application
-    - Open your browser and navigate to[ http://localhost:8000.](http://library.localhost:8000/)
+    - Open your browser and navigate to http://library.localhost:8000/
 
 ### How to Use
 
